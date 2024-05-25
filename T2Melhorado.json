@@ -12,7 +12,7 @@
       "maxService": 3.0
     },
     "Q2": {
-      "servers": 3,
+      "servers": 2,
       "capacity": 5,
       "minService": 5.0,
       "maxService": 9.0
