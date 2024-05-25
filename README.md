@@ -29,3 +29,7 @@ Ao executar a simulação, espera-se que os seguintes resultados sejam apresenta
 - Tempos acumulados para os estados de cada fila.
 - Número de perda de clientes (se houver) de cada fila.
 - Tempo global da simulação.
+
+
+## Link do Vídeo com a explicação
+https://youtu.be/EOZjZUkokOU
