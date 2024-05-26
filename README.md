@@ -16,7 +16,12 @@ Para a simulação, considere inicialmente as filas vazias e que o primeiro clie
 1. Clone o repositório em sua máquina local.
 2. Abra o terminal na pasta do projeto.
 3. Ter o Java instalado no computador da versão 17 para cima.
-4. Execute o arquivo .jar que está no diretório base do projeto, com o seguinte comando:
+4. Entre no repositório e utilze os seguintes comandos:
+  ```
+    mvn clean
+    mvn install
+  ```
+6. Execute o arquivo .jar que está no diretório base do projeto, com o seguinte comando:
  ```
    java -jar Filas_SMA.jar
  ```
