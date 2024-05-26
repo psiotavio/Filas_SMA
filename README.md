@@ -21,6 +21,8 @@ Para a simulação, considere inicialmente as filas vazias e que o primeiro clie
    java -jar Filas_SMA.jar
  ```
 5. Ao iniciar digite "1" no terminal para executar o trabalho 1.
+6. Rodar de novo e digitar 2 caso queira ver o trabalho 2.
+7. Rodar de novo e digitar 3 caso queira ver o trabalho 2 melhorado.
 ## Resultados esperados
 
 Ao executar a simulação, espera-se que os seguintes resultados sejam apresentados:
